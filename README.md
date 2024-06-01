@@ -24,7 +24,7 @@ Esse script pode ser usado tanto pela linha de comando ou como um módulo.
 Na linha de comando:
 
 ```bash
-python imagem_para_ascii caminho/para/imagem
+python imagem_para_ascii.py caminho/para/imagem
 ```
 
 Como módulo:
